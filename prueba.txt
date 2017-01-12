@@ -1,3 +1,7 @@
 hola desde yesi
 jeje 
+<<<<<<< HEAD
 yessias
+=======
+modificando franco
+>>>>>>> dfa42762209c7fced706a046818c59df95b0a60c
